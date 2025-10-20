@@ -1,0 +1,13 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore compiled class files
+bin/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
